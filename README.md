@@ -1,4 +1,4 @@
-# Pic-See-Object-Counter
+# ObjectCounterX
 A Python program to count and identify objects in an image.
 
 Language used - Python
